@@ -1,5 +1,5 @@
 # converToCsv
-A simple Python Application to convert a specific Excel's sheet to CSV file.
+A simple Python Application to convert a specific Excel's sheet to CSV file.It uses '|' (Pipe char) as field delimiter.
 
 
 ### PLEASE SEE THE BRANCH 
